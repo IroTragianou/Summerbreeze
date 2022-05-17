@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Summerbreeze
+- 👋 Hi, I’m @Iro Tragianou
 - 👀 I’m interested in web development and 3d design.
 - 🌱 I’m currently learning css.
 
